@@ -3,12 +3,7 @@
 </p>
 
 # Eventos
-Lista de meetups e talks de Devfridays.
-
-## Proximos meetups
-**As propostas de talks estão nas issues de cada encontro**:
-
-[Lista completa dos meetups](https://github.com/devfridays/talks/milestones?direction=asc&sort=due_date&state=open)  :metal:
+:calendar: Lista de meetups já realizados ou que irão acontecer, contendo issues com propostas de talks.
 
 ## Como funciona
 **Milestones**: São os meetups já realizados ou que ainda irão acontecer.      
@@ -28,6 +23,13 @@ Pra facilitar a submissão de talks ou temas, criamos um template básico pra qu
 **Título**: Titulo da talk  
 **Descrição**: Breve descrição do que pretende apresentar.  
 ***
+
+
+## Proximos meetups
+**As propostas de talks estão nas issues de cada encontro**:
+
+[Lista completa dos meetups](https://github.com/devfridays/talks/milestones?direction=asc&sort=due_date&state=open)  :metal:
+
 
 ## Endereço:
 **Local**: Living Lab MS  
