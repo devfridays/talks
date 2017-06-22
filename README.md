@@ -3,47 +3,37 @@
 </p>
 
 # Eventos
-Lista de meetups, encontros e talks de Devfridays.
+Lista de meetups e talks de Devfridays.
 
-## Proximos Encontros
-**As talks ministradas estão nas issues de cada encontro**:
+## Proximos meetups
+**As propostas de talks estão nas issues de cada encontro**:
 
-[Lista de encontros](https://github.com/devfridays/talks/milestones?direction=asc&sort=due_date&state=open) 
+[Lista completa dos meetups](https://github.com/devfridays/talks/milestones?direction=asc&sort=due_date&state=open)  :metal:
 
 ## Como funciona
-Se você tem algum interesse em apresentar alguma talks ou sugestões de talks pode adicionar aqui seguindo um template básico que vamos descrever logo abaixo.
+**Milestones**: São os meetups já realizados ou que ainda irão acontecer.      
+**Issues**: São as talks propostas ou sugestões de temas referentes.    
 
-**Milestones**: Meetups/Encontros 
+Se você tem algum interesse em apresentar alguma talks ou sugestões de talks pode adicionar aqui seguindo um template básico, descrito logo abaixo.
 
-**Issues**: Propostas de talks
+## Template  
+Pra facilitar a submissão de talks ou temas, criamos um template básico pra que possa nos enviar a sua proposta.
 
-## Template
+### Talks - Issues
+1. Abra uma [issue](https://github.com/devfridays/talks/issues/new) com o titulo da talk ou assunto de interesse.
+2. Adicione os Labels referente ao assunto da issue. (Soft-Skills, CSS, JS, Sugestão ...)
+3. Coloque as seguintes informações na descrição da issue:
 
-Pra facilitar a adição de talks ou encontros, criamos um template básico pra nos enviar.
+***
+**Título**: Titulo da talk  
+**Descrição**: Breve descrição do que pretende apresentar.  
+***
 
-### Milestones - Meetups/Encontros
-1. Abra um [Milestones](https://github.com/devfridays/talks/milestones/new) 
-2. Coloque as seguintes informações:
+## Endereço:
+**Local**: Living Lab MS  
+**Rua:** Brasil, 205 - Monte Castelo, Campo Grande - MS, 79010-230  
+**Telefone:** (67) 3389-5411  
+**Maps**: [Clique aqui](https://goo.gl/maps/V3HBSSpmcYG2)
 
----
-**Título**: Meet-up "2017-06-30"
-* * *
-
-### Issues - Talks
-1. Abra uma [issue](https://github.com/devfridays/talks/issues/new) 
-2. Coloque as seguintes informações:
-
----
-**Título**: Styled Components
-
-**Descrição (breve)**: Breve descrição do que pretende apresentar.
-
-**Label**: CSS, JS, Soft-Skills...
-* * *
-
-
-## Licença
-
+## Licença  
 [MIT](LICENSE.md) &copy; Devfridays
-
-
