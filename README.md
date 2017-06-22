@@ -14,6 +14,7 @@ Lista de meetups, encontros e talks de Devfridays.
 Se você tem algum interesse em apresentar alguma talks ou sugestões de talks pode adicionar aqui seguindo um template básico que vamos descrever logo abaixo.
 
 **Milestones**: Meetups/Encontros 
+
 **Issues**: Propostas de talks
 
 ## Template
@@ -23,6 +24,7 @@ Pra facilitar a adição de talks ou encontros, criamos um template básico pra 
 ### Milestones - Meetups/Encontros
 1. Abra um [Milestones](https://github.com/devfridays/talks/milestones/new) 
 2. Coloque as seguintes informações:
+
 ---
 **Título**: Meet-up "2017-06-30"
 * * *
@@ -30,9 +32,12 @@ Pra facilitar a adição de talks ou encontros, criamos um template básico pra 
 ### Issues - Talks
 1. Abra uma [issue](https://github.com/devfridays/talks/issues/new) 
 2. Coloque as seguintes informações:
+
 ---
 **Título**: Styled Components
+
 **Descrição (breve)**: Breve descrição do que pretende apresentar.
+
 **Label**: CSS, JS, Soft-Skills...
 * * *
 
